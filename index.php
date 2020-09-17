@@ -1,5 +1,5 @@
 <?php
-header("Location: https://dev-quiz-winzone.pantheonsite.io/"); 
+header("Location: https://itsrk.github.io/payment/"); 
 
 
 ?>
